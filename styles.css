@@ -1,0 +1,149 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: rgb(67,67,68);
+    padding: 1rem;
+    width: 100%;
+}
+.icon{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+
+.container{
+    background-color: rgb(250,250,250);
+    padding: 4rem 2rem; 
+    width: 100%;
+    /* min-height: 100vh; */
+    /* position: absolute; */
+    /* margin: 0 auto; */
+    min-height: 100vh;
+}
+.pricing{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.img{
+   
+    text-align: center;
+    padding-bottom: 10rem;
+    
+
+}
+
+.pricing h1{
+    font-size: 6rem;
+    font-weight: 7rem;
+}
+.pricing p{
+    font-size: 2rem;
+    font-weight: 100;
+}
+.pricing a{
+    font-size:  1.5rem;
+    color: rgb(83,151,219);
+}
+.texs{
+
+background-color:rgb(255,255,255);
+}
+
+
+footer{
+padding: 4rem 8rem;
+display: flex;
+justify-content: space-between;
+background-color: #F5F5F7;
+}
+
+.about-apple{
+    font-weight: bold;
+}
+
+.links{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.fotter-links{
+    color: black;
+    text-decoration: none;
+}
+.hero-section{
+    /* width: 30%; */
+    /* object-fit: cover; */
+    margin: 0 auto;
+    /* padding-right: 20rem; */
+}
+.texs{
+    /* margin: 0 auto; */
+    /* padding: 4rem 2rem; */
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    /* margin-left: 4rem; */
+
+}
+.text{
+    /* padding-left: 2rem; */
+    align-items: center;
+    margin-left: 3rem;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+.text h1{
+    padding-left: 30rem;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    font-size: 5rem;
+
+}
+.text p{
+    padding-left: 30rem;
+    font-size: 2rem;
+    margin-right: 1rem;
+
+}
+.text a{
+    padding-left: 30rem;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+body{
+    width: 100vw;
+}
+.hero-section img{
+    object-fit: cover;
+    width: 100%;
+}
+.section{
+    width: 100%;
+}
+.section1{
+    background-color: black;
+    color: white;
+}
+.section1 img{
+    width: 100%;
+}
+.section1 h1{
+    padding-left: 26rem;
+}
+.section1 p{
+    padding-left: 26rem;
+}
+
+
+
+
+
+
